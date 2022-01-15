@@ -13,9 +13,9 @@
 - There are around 58 classes and each class has around 120 images. the labels.csv file has the respective description of the traffic sign class.
 
 ### PROJECT GOAL
-- Create a basic image classifier with Efficient Net architecture to classifiy traffic signals. No hyperparameter tuning has been done as basic model ( EfficentNetB0 ) gave around 97% validation accuracy 
+- Create a basic image classifier with Efficient Net architecture to classifiy traffic signals. No hyperparameter tuning has been done as basic model ( EfficentNetB0 ) gave around 97% validation accuracy . Need to be done in future releases
 - Build a Streamlit UI to provide an visual look and feel
-- Deploy to AWS Azure platform
+- Deploy to Heroku platform
 
 
 
