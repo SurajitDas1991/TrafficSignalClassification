@@ -1,8 +1,8 @@
 import streamlit as st
-import pathlib
-import os
+#import pathlib
+#import os
 from PIL import Image
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 from predict import PredictModel
 
