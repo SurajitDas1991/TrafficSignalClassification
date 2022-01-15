@@ -1,17 +1,16 @@
-import os
-import glob
-from pathlib import Path
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from PIL import Image
-from sklearn.metrics import confusion_matrix, classification_report
-from sklearn.model_selection import train_test_split
-import tensorflow as tf
+#import os
+#import glob
+#from pathlib import Path
+#import pandas as pd
+#import numpy as np
+#import seaborn as sns
+#from PIL import Image
+#from sklearn.metrics import confusion_matrix, classification_report
+#from sklearn.model_selection import train_test_split
+#import tensorflow as tf
 
-from load_data import DataLoader
-from train import TrainModel
+#from load_data import DataLoader
+#from train import TrainModel
 from predict import PredictModel
 from dashboard import PrepareTheDasboard
 

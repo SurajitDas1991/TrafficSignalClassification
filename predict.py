@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 from keras.models import load_model
 from tensorflow.keras.applications.efficientnet import preprocess_input
-import os
+#import os
 import pickle as pickle
 class PredictModel:
     def __init__(self):
